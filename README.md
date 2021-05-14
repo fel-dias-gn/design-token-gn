@@ -1,5 +1,7 @@
 # Design Token Transformer [GN tests]
 
+A experimentation to test the interaction between Figma, Style Dictionary and Github.
+
 This package is supposed to be used together with the [Design Tokens plugin for Figma](https://github.com/lukasoppermann/design-tokens).
 It transforms the exported design tokens using [Amazon style dictionary](https://amzn.github.io/style-dictionary/#/).
 
